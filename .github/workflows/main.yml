@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Update Contributions in snack animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
