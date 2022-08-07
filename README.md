@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+---
+
+### 👨‍💻: About Me :
+
+I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
