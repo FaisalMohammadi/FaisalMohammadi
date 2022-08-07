@@ -42,6 +42,6 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaisalMohammadi&theme=deuteranopia-friendly-theme)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaisalMohammadi&theme=deuteranopia-friendly-theme)
 
 ![Snake animation](https://github.com/FaisalMohammadi/FaisalMohammadi/blob/output/github-contribution-grid-snake.svg)
