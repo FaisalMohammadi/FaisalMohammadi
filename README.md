@@ -4,19 +4,17 @@
 
 ---
 
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="280"></a>
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="300"></a>
+
 ### 👨‍💻: About Me :
 
 I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on **Login and SignUp System with .NET Backend in Flutter**
+- 🌱 I’m currently **Mastering my Flutter knowledge with .NET Backend**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ** I go to the GYM very often**
 
 ---
 
@@ -57,3 +55,5 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
 </p>
 
 ![Snake animation](https://github.com/FaisalMohammadi/FaisalMohammadi/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/footer.svg" width="100%">
