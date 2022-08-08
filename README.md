@@ -4,7 +4,7 @@
 
 ---
 
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="300"></a>
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="280"></a>
 ### 👨‍💻: About Me :
 
 I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany.
