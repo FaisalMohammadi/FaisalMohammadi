@@ -4,17 +4,17 @@
 
 ---
 
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="300"></a>
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="420" height="280"></a>
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany.
+I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany :de:.
 
-- 🔭 I’m currently working on **Login and SignUp System with .NET Backend in Flutter**
+- 🔭 I’m currently working on **Login and SignUp System in Flutter with .NET Backend**
 - 🌱 I’m currently **Mastering my Flutter knowledge with .NET Backend**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me: ...
-- ⚡ Fun fact: **I go to the GYM very often**
+- 📫 How to reach me:  ![Email](https://img.shields.io/badge/E--Mail-mohammadi.faisalll%40gmail.com-critical?style=flat&logo=gmail) [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-mohammadi-23ba2b240/) 
+- ⚡ Fun fact: **I go to the GYM :muscle: very often and in the winter I ski :ski:**
 
 ---
 
@@ -54,12 +54,13 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
   </a> 
 </p>
 
+---
+### :busts_in_silhouette: Github Profile visitors: 
 <p align="center"> 
-  Visitors count<br>
   <img src="https://profile-counter.glitch.me/FaisalMohammadi/count.svg" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=FaisalMohammadi&label=PROFILE+VIEWS)
+---
 
 ![Snake animation](https://github.com/FaisalMohammadi/FaisalMohammadi/blob/output/github-contribution-grid-snake.svg)
 
