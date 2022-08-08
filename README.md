@@ -1,5 +1,7 @@
 <a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner2.gif" align="center" width="850"></a>
 
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/programming.gif" align="center" width="850"></a>
+
 <h1 align="center">Hi there, I'm Faisal! 👋</h1>
 
 ---
