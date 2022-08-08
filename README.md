@@ -1,12 +1,15 @@
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner3.gif" align="center" width="850"></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi 👋: there, I'm Faisal!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<h2 align="center">Full Stack Flutter Developer from Germany :de:</h2>
 
-<h1 align="center">Hi there, I'm Faisal! 👋</h1>
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner3.gif" align="center" width="850"></a>
 
 ---
 
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="420" height="280"></a>
-
 ### 👨‍💻: About Me :
+
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="bottom" width="420" height="280"></a>
 
 I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany :de:.
 
