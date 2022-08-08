@@ -1,6 +1,6 @@
 <a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner2.gif" align="center" width="850"></a>
 
-<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/programming.gif" align="center" width="850"></a>
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner3.gif" align="center" width="850"></a>
 
 <h1 align="center">Hi there, I'm Faisal! 👋</h1>
 
@@ -8,7 +8,7 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
