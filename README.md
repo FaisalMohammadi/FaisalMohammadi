@@ -4,6 +4,7 @@
 
 ---
 
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="right" width="450" height="300"></a>
 ### 👨‍💻: About Me :
 
 I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany.
@@ -22,15 +23,20 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
 ### :hammer_and_wrench: Languages and Tools I Use :
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/?gclsrc=aw.ds&gclsrc=ds&gclsrc=aw.ds)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://visualstudio.microsoft.com/de/vs/)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/de_de/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/de/ios)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
@@ -44,6 +50,10 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaisalMohammadi&theme=deuteranopia-friendly-theme)
+
+<p align="center"> 
+  <a href="url"><img src="http://github-readme-streak-stats.herokuapp.com?user=FaisalMohammadi&theme=deuteranopia-friendly-theme&hide_border=true" align="center">
+  </a> 
+</p>
 
 ![Snake animation](https://github.com/FaisalMohammadi/FaisalMohammadi/blob/output/github-contribution-grid-snake.svg)
