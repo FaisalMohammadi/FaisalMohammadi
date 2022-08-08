@@ -1,5 +1,7 @@
 ### Hi there, I'm Faisal! 👋
 
+<a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner2.gif" align="center" ></a>
+<img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner2.gif" width="950" height="450">
 ---
 
 ### 👨‍💻: About Me :
