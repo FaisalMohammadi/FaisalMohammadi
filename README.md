@@ -14,7 +14,7 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
 - 🌱 I’m currently **Mastering my Flutter knowledge with .NET Backend**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ** I go to the GYM very often**
+- ⚡ Fun fact: **I go to the GYM very often**
 
 ---
 
@@ -53,6 +53,13 @@ I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi
   <a href="url"><img src="http://github-readme-streak-stats.herokuapp.com?user=FaisalMohammadi&theme=deuteranopia-friendly-theme&hide_border=true" align="center">
   </a> 
 </p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/FaisalMohammadi/count.svg" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=FaisalMohammadi&label=PROFILE+VIEWS)
 
 ![Snake animation](https://github.com/FaisalMohammadi/FaisalMohammadi/blob/output/github-contribution-grid-snake.svg)
 
