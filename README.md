@@ -11,8 +11,6 @@
 
 <a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/about_me.gif" align="bottom" width="420" height="280"></a>
 
-I am a Full Stack Flutter Developer <img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/dev.gif" width="30"> from Germany :de:.
-
 - 🔭 I’m currently working on **Login and SignUp System in Flutter with .NET Backend**
 - 🌱 I’m currently **Mastering my Flutter knowledge with .NET Backend**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
