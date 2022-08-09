@@ -48,7 +48,7 @@
 
 ---
 ### :triangular_ruler: Project Screenshots :
-##### Complete Authentication & Authorization System built by Flutter(Frontend), .NET(Backend) and PostgreSQL(Database)
+##### Complete Authentication & Authorization System with social Login functionality built by Flutter(Frontend), .NET(Backend) and PostgreSQL(Database)
 
 <p align="left"> 
   <a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/loginSystemAppstoreScreenshots.png" width="87%" height="87%">
