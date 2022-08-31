@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi 👋 there, I'm Faisal!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<h2 align="center">Full Stack Flutter Developer from Germany :de:</h2>
+
+<h2 align="center">Hi 👋 there, I'm Faisal Full Stack Flutter Developer from Germany :de:</h2>
 
 <a href="url"><img src="https://github.com/FaisalMohammadi/FaisalMohammadi/blob/main/banner3.gif" align="center" width="850"></a>
 
