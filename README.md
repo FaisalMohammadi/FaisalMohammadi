@@ -57,12 +57,7 @@
 ### :books: Blog Posts :
 #### Coming soon.......
 ---
-### :fire: My Stats :
 
-<p align="center"> 
-  <a href="url"><img src="http://github-readme-streak-stats.herokuapp.com?user=FaisalMohammadi&theme=deuteranopia-friendly-theme&hide_border=true" align="center">
-  </a> 
-</p>
 
 ---
 
